@@ -1,0 +1,163 @@
+.shop{
+    color: orange;
+    font-family: Aldhabi;
+    text-space: 14px;
+    font-size: 20vh;
+}
+.System{
+    color: orangered;
+    text-space: 14px;
+    margin-left: 20vh;
+    font-family: Aldhabi;
+    margin-left: 10px;
+}
+.tdiv{
+    padding-left: 10vh;
+    padding-right: 10vh;
+}
+.btnRemove{
+    width: 100%;
+}
+.shocart{
+    font-size: 30px;
+}
+.btnAdmin{
+    background-color: orange;
+    color: white;
+    margin-left: 10px;
+    height: 8vh;
+    margin-top: 4px;
+}
+.ddDiv{
+    display: flex;
+}
+.wel{
+    color: orange;
+    font-family: Algerian;
+}
+.navbar-header{
+    height: 7vh;
+    width: 100%;
+}
+.topDiv{
+    padding: 20px;
+    padding-left: 50px;
+    display: flex;
+}
+.btnSell1{
+    width: 50vh;
+}
+.tabActive{
+    width: 30vh;
+    height: 100%;
+    background-color: white;
+    color: orange;
+    border: none;
+    outline-color: orange;
+    outline-style: solid;
+    outline-width: 1px;
+}
+.frmSearch{
+    display: flex;
+    padding-left: 30vh;
+}
+.addDiv{
+    width: 60%;
+    height: 50vh;
+    padding-top: 20px;
+    box-shadow: grey 2px 2px 2px 2px;
+    margin-left: 20vh;
+}
+.back{
+    color: orange;
+}
+.btntbtn{
+    width: 100%;
+}
+.adInput{
+    width: 80%;
+}
+.bottDiv{
+    width: 100%;
+    height: 50vh;
+    background-color: orange;
+}
+.btnTabs{
+    width: 30vh;
+    height: 100%;
+    background-color: transparent;
+    color: white;
+    border: none;
+}
+.ref{
+    margin-left: 20px;
+}
+
+.refDiv{
+    padding-top: 5px;
+    margin-top: 10px;
+    margin-left: 10px;
+    padding-bottom: 5px;
+    box-shadow: grey 2px 2px 2px 2px;
+    padding-left: 27vh;
+    display: flex;
+
+}
+.back{
+    margin-top: 20px;
+    font-size: 30px;
+}
+.refTable{
+    padding-left: 20px;
+    margin-right: 50px;
+}
+.tabs{
+    width: 100%;
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 8vh;
+    background-color: orange;
+}
+.tabNav{
+    width: 100%;
+    height: 8vh;
+    background-color: orange;
+}
+.sellTable .tr1 .td1{
+    border: 1px solid orange;
+    border-collapse: collapse;
+    padding-left: 10px;
+}
+.search{
+    width: 70vh;
+}
+.btnSearch{
+    margin-left: 10px;
+    background-color: orange;
+    color: white;
+}
+.topx{
+    margin-left: 100px;
+}
+.top1{
+    display: flex;
+}
+.td1{
+    width: 40vh;
+}
+.th1{
+    background-color: #f3d5a0;
+    width: 20vh;
+    padding-left: 10px;
+    height: 5vh;
+    border: 1px solid orange;
+    border-collapse: collapse;
+}
+.btnSell{
+    width: 100%;
+    color: white;
+    background-color: orange;
+}
+.divSearch{
+    display: flex;
+}
